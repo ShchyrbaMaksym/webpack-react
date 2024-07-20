@@ -1,0 +1,35 @@
+{
+  "header": {
+    "logo": "Лого",
+    "home": "Головна",
+    "services": "Послуги",
+    "portfolio": "Портфоліо",
+    "partner-program": "Партнерська Програма",
+    "blog": "Блог",
+    "contacts": "Контакти",
+    "contactus": "Связатися з нами",
+     "light": "Світла тема",
+    "dark": "Темна тема"
+  },
+  "footer": {
+    "copyright": "Усі права захищені"
+  },
+  "home": {
+    "welcome": "Головна сторінка"
+  },
+  "services": {
+    "welcome": "Сторінка послуг"
+  },
+  "portfolio": {
+    "welcome": "Сторінка портфоліо"
+  },
+  "partner": {
+    "welcome": "Партнерьска сторінка"
+  },
+  "blog": {
+    "welcome": "Сторінка блога"
+  },
+  "contact": {
+    "welcome": "Сторінка контактів"
+  }
+}

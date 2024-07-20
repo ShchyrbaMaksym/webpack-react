@@ -1,0 +1,12 @@
+@import '../../styles/themes.scss';
+.footer {
+    background: var(--primary-color);
+    height: 200px;
+    display: flex;
+    align-items: center;
+    p {
+        text-align: center;
+        color: #fff;
+        font-size: 16px;
+    }
+}

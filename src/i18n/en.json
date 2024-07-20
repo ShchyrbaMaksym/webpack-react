@@ -1,0 +1,35 @@
+{
+  "header": {
+    "logo": "Logo",
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "partner-program": "Partner Program",
+    "blog": "Blog",
+    "contacts": "Contacts",
+    "contactus": "Contact Us",
+    "light": "Light theme",
+    "dark": "Dark theme"
+  },
+  "footer": {
+    "copyright": "All rights reserved"
+  },
+  "home": {
+    "welcome": "Home Page"
+  },
+  "services": {
+    "welcome": "Services Page"
+  },
+  "portfolio": {
+    "welcome": "Portfolio Page"
+  },
+  "partner": {
+    "welcome": "Partner Page"
+  },
+  "blog": {
+    "welcome": "Blog Page"
+  },
+  "contact": {
+    "welcome": "Contact Page"
+  }
+}
